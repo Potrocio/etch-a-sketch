@@ -9,6 +9,7 @@ function pixelSelection (e) {
     console.log(e.target);
 }
 
+//this is a comment test
 pixel16.addEventListener('click',pixelSelection);
 pixel32.addEventListener('click',pixelSelection);
 pixel64.addEventListener('click',pixelSelection);
