@@ -1,2 +1,2 @@
 # etch-a-sketch
-sketch with mouse hover
+mouse hover sketching
